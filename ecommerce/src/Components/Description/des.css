@@ -1,0 +1,19 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.pro-des {
+    display: flex;
+    justify-content: center;
+}
+.details h3,h1,p{
+    text-align: center;  
+}
+
+.but {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
